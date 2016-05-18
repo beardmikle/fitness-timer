@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">Фитнес-таймер</string>    <string name="action_settings">Настройки</string>    <string name="action_settings">Интервал 30 секунд</string>    <string name="action_settings_60">Интервал 60 секунд</string>    <string name="action_settings_90">Интервал 90 секунд</string></resources>
