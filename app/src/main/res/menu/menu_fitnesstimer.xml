@@ -7,4 +7,24 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_15"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_15"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_30"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_30"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_60"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_60"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_90"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_90"
+        app:showAsAction="never" />
 </menu>
